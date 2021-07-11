@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tullu88/apptitudes.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/Tullu88/apptitudes.git/static/js/main.40b52b0f.chunk.js",
+    "main.js.map": "/Tullu88/apptitudes.git/static/js/main.40b52b0f.chunk.js.map",
+    "runtime-main.js": "/Tullu88/apptitudes.git/static/js/runtime-main.ab1beef1.js",
+    "runtime-main.js.map": "/Tullu88/apptitudes.git/static/js/runtime-main.ab1beef1.js.map",
+    "static/js/2.c456ec1b.chunk.js": "/Tullu88/apptitudes.git/static/js/2.c456ec1b.chunk.js",
+    "static/js/2.c456ec1b.chunk.js.map": "/Tullu88/apptitudes.git/static/js/2.c456ec1b.chunk.js.map",
+    "static/js/3.9bb39647.chunk.js": "/Tullu88/apptitudes.git/static/js/3.9bb39647.chunk.js",
+    "static/js/3.9bb39647.chunk.js.map": "/Tullu88/apptitudes.git/static/js/3.9bb39647.chunk.js.map",
+    "index.html": "/Tullu88/apptitudes.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Tullu88/apptitudes.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.c456ec1b.chunk.js.LICENSE.txt": "/Tullu88/apptitudes.git/static/js/2.c456ec1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab1beef1.js",
+    "static/js/2.c456ec1b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.40b52b0f.chunk.js"
+  ]
+}
