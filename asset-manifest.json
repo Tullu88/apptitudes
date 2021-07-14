@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.1c0f7f9c.chunk.css",
-    "main.js": "./static/js/main.27c264e1.chunk.js",
-    "main.js.map": "./static/js/main.27c264e1.chunk.js.map",
+    "main.js": "./static/js/main.7d22c3da.chunk.js",
+    "main.js.map": "./static/js/main.7d22c3da.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.bf30ca8f.js",
     "runtime-main.js.map": "./static/js/runtime-main.bf30ca8f.js.map",
     "static/js/2.b18d4215.chunk.js": "./static/js/2.b18d4215.chunk.js",
@@ -14,13 +14,13 @@
     "static/js/2.b18d4215.chunk.js.LICENSE.txt": "./static/js/2.b18d4215.chunk.js.LICENSE.txt",
     "static/media/App.css": "./static/media/Pokemon Classic.7b405427.ttf",
     "static/media/antonio2.46adf0b3.jpeg": "./static/media/antonio2.46adf0b3.jpeg",
-    "static/media/frank.439956c1.jpg": "./static/media/frank.439956c1.jpg",
+    "static/media/frank2.38277f2f.png": "./static/media/frank2.38277f2f.png",
     "static/media/talal.43022ff2.jpg": "./static/media/talal.43022ff2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.bf30ca8f.js",
     "static/js/2.b18d4215.chunk.js",
     "static/css/main.1c0f7f9c.chunk.css",
-    "static/js/main.27c264e1.chunk.js"
+    "static/js/main.7d22c3da.chunk.js"
   ]
 }
