@@ -1,43 +1,145 @@
 .App {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.logotype {
+  margin: 0cm;
+  line-height: 30px;
+  font-family: 'pokemon';
+  padding-bottom: 50px;
 }
 
 .logo {
+  width: 60px;
+  height: 60px;
+  
+}
+
+.items-container {
+  padding: 15em;
+}
+
+@font-face {
+  font-family: "pokemon";
+  src: url("./fonts/Pokemon\ Classic.ttf");
+}
+
+.first-frame {
+  height: 54em;
+  background-color: rgb(226, 247, 247);
+}
+
+
+.second-frame {
+  height: 54em;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
+
+.third-frame {
+  height: 54em;
+  background-color: teal;
+  background-color: rgb(226, 247, 247);
+}
+
+.fourth-frame {
+  height: 22em;
+  background-color: black;
+}
+
+.foto-frame-container {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  position: absolute;
+  display: flex;
+  width: 100%;
+  height: 400px;
+}
+
+.foto-frame-1 {
+  background-color: turquoise;
   width: 400px;
-  height: 200px;
+  height: 400px;
+  float: left;
+  position: relative;
+  margin-right: 30px;
+}
+
+.foto-frame-2 {
+  background-color: green;
+  width: 400px;
+  height: 400px;
+  position: relative;
+  float:left;
+  margin-right: 30px;
+}
+
+.foto-frame-3 {
+  background-color: blue;
+  width: 400px;
+  height: 400px;
+  position: relative;
+  float:right;
+}
+
+.footer {
+  position: absolute;
+  color: aliceblue;
+  left: 40px;
+  border-bottom: 1px solid blanchedalmond;
+  text-align: left;
+  padding-bottom: 60px;
+  width: 1800px;
+}
+
+.address {
+  position: absolute;
+  color: rgb(117, 117, 117);
+  padding-top: 80px;
+  padding-left: 110px;
+  text-align: left;
+}
+
+.names {
+  position: absolute;
+  bottom: -30px;
+  left: 135px;
+  z-index: 10;
+}
+
+.foto {
+  width: 400px;
+  height: 400px;
+}
+
+.foto-3 {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+}
+
+.logo-footer {
+  position: relative;
+  left: 800px;
+  top: 250px;
+  width: 50px;
+  height: 50px;
+}
+
+.email {
+  justify-content: center;
+  padding-top: 20em;
+}
+
+.second-frame-title {
+  position: relative;
+  top: -280px;
+  z-index: 10;
+  border-bottom: 1px solid black;
+  padding: 50px;
+  width: 1190px;
 }
