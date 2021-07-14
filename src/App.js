@@ -2,7 +2,7 @@ import './App.css';
 import logo from './images/Apptitudes-Logo-3t.png';
 import './fonts.css';
 import talal from './images/talal.jpg';
-import frank from './images/frank.jpg';
+import frank from './images/frank2.png';
 import antonio from './images/antonio2.jpeg';
 
 function App() {
